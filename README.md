@@ -1,2 +1,1 @@
 # HTML_Project
-Welcome to my collection of HTML projects! This repository houses various HTML projects developed by me. Each project showcases different aspects of web development. Feel free to explore the projects and use them as learning resources or inspiration for your own projects. To run any project locally, simply clone the repository and open the respective HTML file in your browser. Contributions are welcome; if you have any ideas for improvements or would like to report issues, please create a new pull request or open an issue.
